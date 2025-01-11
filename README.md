@@ -2,6 +2,8 @@
 Python module to track transactions and token creations on the pump.fun exchange.
 This is a work in project and code may not be 100% complete as this was ported from another project.
 
+for this to work you may need to download IDL file from pump.fun
+
 Sample usage:
 
 ```python
